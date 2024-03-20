@@ -19,3 +19,17 @@ During weekly meetings, we can create tasks for everyone to ensure each member h
 4. As a group, what are you overall goals for the project? What strategies will you use to make sure you meet these goals?
 - Making sure we can complete the full project in time.
 - Our model/project should be accurate as much as possible. 
+
+
+ROLES:
+- Swathi is gorup meeting reminder person 
+- Sharif project presentation slides
+- Hasa 
+- Anuj 
+
+
+Short-term goals:
+- Finding a good, usable dataset. This includes cleaning it to ensure we use the data that is relevant to our project.
+- Have a working proof-of-concept by end of March.
+- Have first-draft versions of key data visualizations by April 5th.
+

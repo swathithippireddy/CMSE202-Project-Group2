@@ -24,7 +24,7 @@ During weekly meetings, we can create tasks for everyone to ensure each member h
 ROLES:
 - Swathi is gorup meeting reminder person 
 - Sharif project presentation slides
-- Hasa - testing the progress frequently
+- Hasa testing the progress frequently
 - Anuj 
 
 

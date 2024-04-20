@@ -32,6 +32,9 @@ Overall, the project demonstrates the process of analyzing housing data, selecti
         - In charge of setting up meeting dates and times amongst the project members to ensure that the project would be delivered in time and that the presentation was well prepared for. 
         - Worked on the powerpoint slides for the final presenation. 
     - Anuj Jadhav
+        - Worked on the Multiple regression model for house price prediction
+        - Kept a track of files and branches on the Proeject Repositiory
+        - Worked on the powerpoint slides for the final presenation. 
     - Lalitha Hasa Perakam
         - Kept a record of all the updated files and made sure everything runs smoothly.
         - Worked on finding a relevant dataset for the project.

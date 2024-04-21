@@ -41,3 +41,12 @@ Overall, the project demonstrates the process of analyzing housing data, selecti
         - Made the relevant visualizations and cleaned up the dataset to fit the project's needs.
         - Worked on the powerpoint slides for the final presentation.
     - Sharif Safwan Hossain
+    - Worked on the linear regression model for house price prediction.
+    - Created the necessary visualizations to enhance understanding and presentation of data.
+    - Worked on the PowerPoint slides for the final presentation.
+
+
+
+
+
+
